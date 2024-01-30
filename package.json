@@ -1,0 +1,18 @@
+{
+  "name": "interactly",
+  "version": "1.0.0",
+  "description": "This is the task 1 of the given assignment by interactly on wellfound",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yash Somani",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "express": "^4.18.2",
+    "mysql2": "^3.9.1"
+  }
+}
